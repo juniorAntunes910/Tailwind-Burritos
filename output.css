@@ -1891,6 +1891,10 @@ video {
     width: 1290px;
   }
 
+  .md\:w-24 {
+    width: 6rem;
+  }
+
   .md\:flex-1 {
     flex: 1 1 0%;
   }
@@ -2000,6 +2004,11 @@ video {
   .md\:px-14 {
     padding-left: 3.5rem;
     padding-right: 3.5rem;
+  }
+
+  .md\:px-12 {
+    padding-left: 3rem;
+    padding-right: 3rem;
   }
 
   .md\:text-end {
